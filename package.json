@@ -16,7 +16,7 @@
     "nodemailer": "^6.4.5",
     "nodemailer-sendgrid-transport": "^0.2.0",
     "acorn": ">=5.7.4",
-    "lodash": ">=4.17.12"
+    "lodash": ">=4.17.13"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
